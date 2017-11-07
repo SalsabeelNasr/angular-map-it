@@ -1,6 +1,6 @@
 {
   "name": "angular-map-it",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular module with directives for worldmap with choropleth options, mercator and orthographic projections",
   "keywords": [
     "angular",
@@ -14,7 +14,7 @@
   "authors": [
     "Siddharth Nandagopal <sid.nandhan@gmail.com>"
   ],
-  "dependencies": {    
+  "dependencies": {
     "d3": "http://d3js.org/d3.v3.min.js"
   },
   "devDependencies": {
